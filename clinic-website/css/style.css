@@ -1,0 +1,105 @@
+@font-face {
+    font-family: Barrio;
+    src: url(../fonte/BabyBumi.ttf);
+  }
+
+body{
+    /* background-color: #6c7579;     */
+    background-color: #C0c9d8;
+}
+
+.body{
+    /* background: #002273; */
+    background-color: white;
+}
+
+.cont{
+    background-color: #064469;
+    width: 1800px;
+    height: 680px;
+    margin-left: 60px;
+
+}
+
+.bloco1{
+    margin-left: 50px;
+    font-family:cursive;
+    font-size: 20px;
+
+
+
+}
+
+.bloco2{
+    width: 1600px;
+    margin-left: 145px;
+    font-family:cursive;
+    font-size: 20px;
+
+
+
+}
+
+h1, h2{
+    text-align: center;
+    color: rgb(0, 0, 0);
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+/* .card-group{
+    height: 50px;
+    width: 600px;
+} */
+.card{
+    margin: 30px;
+    width: 400px;
+    text-align: center;
+}
+
+.menu{  
+    width: 460px;
+    margin-left: 730px;
+    padding-left: 10px;
+    padding-right: 10px;
+    text-align: center;
+    font-size: 25px;
+    border-radius: 10px;
+    margin-top: 5px;
+}
+
+.menu1{  
+    width: 555px;
+    margin-left: 690px;
+    padding-left: 10px;
+    padding-right: 10px;
+    text-align: center;
+    font-size: 25px;
+    border-radius: 10px;
+    margin-top: 5px;
+}
+
+h2{
+    text-align: center;
+    color: white;
+}
+
+/* width */
+::-webkit-scrollbar {
+    width: 15px;
+  }
+  
+  /* Track */
+  ::-webkit-scrollbar-track {
+    background: white;
+  }
+  
+  /* Handle */
+  ::-webkit-scrollbar-thumb {
+    background: #182434;
+    border-radius: 10px;
+  }
+  
+  /* Handle on hover */
+  ::-webkit-scrollbar-thumb:hover {
+    background: #182434;
+  }
